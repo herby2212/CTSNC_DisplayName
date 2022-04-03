@@ -1,0 +1,6 @@
+name: CTSNC_DisplayName
+main: de.Herbystar.CTSNC_Modules.DisplayName.Main
+version: 1.3
+author: Herbystar
+depend: [CTSNC, TTA]
+description: DisplayName module for CTSNC.
